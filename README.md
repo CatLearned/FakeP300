@@ -17,4 +17,4 @@
 `port = 9000` - Порт на который отправлять, должен соответствовать значениям в проекте [StimulusPresentation](https://github.com/CatLearned/StimulusPresentation)
 
 # Как работать с программой?
-Описано в [Readme.md проекта StimulusPresentation](https://github.com/CatLearned/StimulusPresentation/edit/master/README.md)
+Описано в [Readme.md проекта StimulusPresentation](https://github.com/CatLearned/StimulusPresentation/blob/master/README.md)
